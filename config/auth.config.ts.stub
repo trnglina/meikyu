@@ -1,0 +1,6 @@
+export const REGISTRATION_ID_COOKIE_NAME = 'REGISTRATION_ID';
+export const REGISTRATION_ID_MAX_AGE = 5 * 60; // 5 minutes
+export const AUTHENTICATION_ID_COOKIE_NAME = 'AUTHENTICATION_ID';
+export const AUTHENTICATION_ID_MAX_AGE = 5 * 60; // 5 minutes
+export const SESSION_ID_COOKIE_NAME = 'SESSION_ID';
+export const SESSION_ID_MAX_AGE = 60 * 60 * 24 * 365; // 1 year
